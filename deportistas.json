@@ -1,0 +1,617 @@
+[{
+  "_id": {
+    "$oid": "63fd8a30578d7ef667a3a55c"
+  },
+  "Id_jugador": 1,
+  "nombre": "Alex Meret",
+  "edad": 25,
+  "posicion": "Portero",
+  "equipo": "Napoles",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8a30578d7ef667a3a55d"
+  },
+  "Id_jugador": 3,
+  "nombre": "Min-Jae Kim",
+  "edad": 26,
+  "posicion": "Defensa",
+  "equipo": "Napoles",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8a30578d7ef667a3a55e"
+  },
+  "Id_jugador": 22,
+  "nombre": "Giovanni Di Lorenzo",
+  "edad": 29,
+  "posicion": "Defensa",
+  "equipo": "Napoles",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8a30578d7ef667a3a55f"
+  },
+  "Id_jugador": 17,
+  "nombre": "Matias Olivera",
+  "edad": 25,
+  "posicion": "Defensa",
+  "equipo": "Napoles",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8a30578d7ef667a3a560"
+  },
+  "Id_jugador": 13,
+  "nombre": "Amir Rrahmani",
+  "edad": 29,
+  "posicion": "Defensa",
+  "equipo": "Napoles",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8a30578d7ef667a3a561"
+  },
+  "Id_jugador": 7,
+  "nombre": "Eljif Elmas",
+  "edad": 23,
+  "posicion": "Centrocampista",
+  "equipo": "Napoles",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8a30578d7ef667a3a562"
+  },
+  "Id_jugador": 20,
+  "nombre": "Piotr Zielinski",
+  "edad": 28,
+  "posicion": "Centrocampista",
+  "equipo": "Napoles",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8a30578d7ef667a3a563"
+  },
+  "Id_jugador": 68,
+  "nombre": "Stanislav Lobotka",
+  "edad": 28,
+  "posicion": "Centrocampista",
+  "equipo": "Napoles",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8a30578d7ef667a3a564"
+  },
+  "Id_jugador": 11,
+  "nombre": "Hirving Lozano",
+  "edad": 27,
+  "posicion": "Centrocampista",
+  "equipo": "Napoles",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8a30578d7ef667a3a565"
+  },
+  "Id_jugador": 9,
+  "nombre": "Victor Osimhen",
+  "edad": 24,
+  "posicion": "Delantero",
+  "equipo": "Napoles",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8a30578d7ef667a3a566"
+  },
+  "Id_jugador": 77,
+  "nombre": "Khvicha Kvratskhelia",
+  "edad": 22,
+  "posicion": "Delantero",
+  "equipo": "Napoles",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8d9b578d7ef667a3a568"
+  },
+  "Id_jugador": 1,
+  "nombre": "Alisson Becker",
+  "edad": 30,
+  "posicion": "Portero",
+  "equipo": "Liberpool",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8d9b578d7ef667a3a569"
+  },
+  "Id_jugador": 2,
+  "nombre": "Joe Gómez",
+  "edad": 25,
+  "posicion": "Defensa",
+  "equipo": "Liberpool",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8d9b578d7ef667a3a56a"
+  },
+  "Id_jugador": 21,
+  "nombre": "Kostas Tsimikas",
+  "edad": 26,
+  "posicion": "Defensa",
+  "equipo": "Liberpool",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8d9b578d7ef667a3a56b"
+  },
+  "Id_jugador": 22,
+  "nombre": "Calvin Ransay",
+  "edad": 19,
+  "posicion": "Defensa",
+  "equipo": "Liberpool",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8d9b578d7ef667a3a56c"
+  },
+  "Id_jugador": 32,
+  "nombre": "Joel Matip",
+  "edad": 31,
+  "posicion": "Defensa",
+  "equipo": "Liberpool",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8d9b578d7ef667a3a56d"
+  },
+  "Id_jugador": 3,
+  "nombre": "Fabinho",
+  "edad": 29,
+  "posicion": "Centrocampistas",
+  "equipo": "Liberpool",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8d9b578d7ef667a3a56e"
+  },
+  "Id_jugador": 7,
+  "nombre": "James Miner",
+  "edad": 37,
+  "posicion": "Centrocampistas",
+  "equipo": "Liberpool",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8d9b578d7ef667a3a56f"
+  },
+  "Id_jugador": 6,
+  "nombre": "Thiago Alcántamara",
+  "edad": 31,
+  "posicion": "Centrocampistas",
+  "equipo": "Liberpool",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8d9b578d7ef667a3a570"
+  },
+  "Id_jugador": 8,
+  "nombre": "Naby Keita",
+  "edad": 28,
+  "posicion": "Centrocampistas",
+  "equipo": "Liberpool",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8e83578d7ef667a3a572"
+  },
+  "Id_jugador": 9,
+  "nombre": "Roberto Fermino",
+  "edad": 31,
+  "posicion": "Delantero",
+  "equipo": "Liberpool",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8e83578d7ef667a3a573"
+  },
+  "Id_jugador": 11,
+  "nombre": "Mohamed Salah",
+  "edad": 30,
+  "posicion": "Delantero",
+  "equipo": "Liberpool",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8fee578d7ef667a3a575"
+  },
+  "Id_jugador": 12,
+  "nombre": "Jerónimo Rulli",
+  "edad": 30,
+  "posicion": "Portero",
+  "equipo": "Ajax",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fd8ffb578d7ef667a3a577"
+  },
+  "Id_jugador": 1,
+  "nombre": "Allan McGregor",
+  "edad": 41,
+  "posicion": "Portero",
+  "equipo": "Rangers",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fe9f37578d7ef667a3a579"
+  },
+  "Id_jugador": 2,
+  "nombre": "Jurriën Timber",
+  "edad": 21,
+  "posicion": "Defensa",
+  "equipo": "Ajax",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fe9f37578d7ef667a3a57a"
+  },
+  "Id_jugador": 3,
+  "nombre": "Calvin Bassey",
+  "edad": 23,
+  "posicion": "Defensa",
+  "equipo": "Ajax",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fe9f37578d7ef667a3a57b"
+  },
+  "Id_jugador": 15,
+  "nombre": "Devyne Rensch",
+  "edad": 20,
+  "posicion": "Defensa",
+  "equipo": "Ajax",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fe9f37578d7ef667a3a57c"
+  },
+  "Id_jugador": 5,
+  "nombre": "Owen Wijndal",
+  "edad": 23,
+  "posicion": "Defensa",
+  "equipo": "Ajax",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fe9f37578d7ef667a3a57d"
+  },
+  "Id_jugador": 4,
+  "nombre": "Edson Álvarez",
+  "edad": 25,
+  "posicion": "Mediocampista",
+  "equipo": "Ajax",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fe9f37578d7ef667a3a57e"
+  },
+  "Id_jugador": 8,
+  "nombre": "Kenneth Taylos",
+  "edad": 20,
+  "posicion": "Mediocampista",
+  "equipo": "Ajax",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fe9f37578d7ef667a3a57f"
+  },
+  "Id_jugador": 7,
+  "nombre": "Steven Bergwijn",
+  "edad": 25,
+  "posicion": "Mediocampista",
+  "equipo": "Ajax",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fe9f37578d7ef667a3a580"
+  },
+  "Id_jugador": 23,
+  "nombre": "Steven Berhuis",
+  "edad": 31,
+  "posicion": "Mediocampista",
+  "equipo": "Ajax",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fe9f37578d7ef667a3a581"
+  },
+  "Id_jugador": 10,
+  "nombre": "Dusan Tadic",
+  "edad": 31,
+  "posicion": "Mediocampista",
+  "equipo": "Ajax",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fe9f37578d7ef667a3a582"
+  },
+  "Id_jugador": 9,
+  "nombre": "Brian Brobbey",
+  "edad": 21,
+  "posicion": "Delantero",
+  "equipo": "Ajax",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fea218578d7ef667a3a584"
+  },
+  "Id_jugador": 6,
+  "nombre": "Connor Goldson",
+  "edad": 30,
+  "posicion": "Defensa",
+  "equipo": "Rangers",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fea218578d7ef667a3a585"
+  },
+  "Id_jugador": 26,
+  "nombre": "Ben Davies",
+  "edad": 27,
+  "posicion": "Defensa",
+  "equipo": "Rangers",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fea218578d7ef667a3a586"
+  },
+  "Id_jugador": 2,
+  "nombre": "James Tavernier",
+  "edad": 31,
+  "posicion": "Defensa",
+  "equipo": "Rangers",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fea218578d7ef667a3a587"
+  },
+  "Id_jugador": 4,
+  "nombre": "Jhon Lundstram",
+  "edad": 29,
+  "posicion": "Mediocampistas",
+  "equipo": "Rangers",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fea218578d7ef667a3a588"
+  },
+  "Id_jugador": 17,
+  "nombre": "Rabbi Matondo",
+  "edad": 22,
+  "posicion": "Mediocampistas",
+  "equipo": "Rangers",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fea218578d7ef667a3a589"
+  },
+  "Id_jugador": 18,
+  "nombre": "Glen Kamara",
+  "edad": 27,
+  "posicion": "Mediocampistas",
+  "equipo": "Rangers",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fea218578d7ef667a3a58a"
+  },
+  "Id_jugador": 25,
+  "nombre": "Kemar Roofe",
+  "edad": 30,
+  "posicion": "Delantero",
+  "equipo": "Rangers",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fea218578d7ef667a3a58b"
+  },
+  "Id_jugador": 20,
+  "nombre": "Alfredo Morelos",
+  "edad": 26,
+  "posicion": "Delantero",
+  "equipo": "Rangers",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fea218578d7ef667a3a58c"
+  },
+  "Id_jugador": 7,
+  "nombre": "Lenis Hagi",
+  "edad": 24,
+  "posicion": "Delantero",
+  "equipo": "Rangers",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fea3f1578d7ef667a3a58e"
+  },
+  "Id_jugador": 31,
+  "nombre": "Borna Barisio",
+  "edad": 30,
+  "posicion": "Defensa",
+  "equipo": "Rangers",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+}]

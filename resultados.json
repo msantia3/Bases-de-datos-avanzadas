@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "63ffeef8578d7ef667a3a61b"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1666742400000"
+    }
+  },
+  "equipo_local": "Ajax",
+  "equipo_visitante": "Liberpool",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "estado": "Finalizado"
+},{
+  "_id": {
+    "$oid": "63ffeef8578d7ef667a3a61c"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1664841600000"
+    }
+  },
+  "equipo_local": "Ajax",
+  "equipo_visitante": "Napoles",
+  "goles_local": 1,
+  "goles_visitante": 6,
+  "estado": "Finalizado"
+},{
+  "_id": {
+    "$oid": "63ffeef8578d7ef667a3a61d"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1662508800000"
+    }
+  },
+  "equipo_local": "Ajax",
+  "equipo_visitante": "Rangers",
+  "goles_local": 4,
+  "goles_visitante": 0,
+  "estado": "Finalizado"
+},{
+  "_id": {
+    "$oid": "63ffeef8578d7ef667a3a61e"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1666742400000"
+    }
+  },
+  "equipo_local": "Liberpool",
+  "equipo_visitante": "Ajax",
+  "goles_local": 1,
+  "estado": "Finalizado"
+},{
+  "_id": {
+    "$oid": "63ffeef8578d7ef667a3a61f"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1667260800000"
+    }
+  },
+  "equipo_local": "Liberpool",
+  "equipo_visitante": "Napoles",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "estado": "Finalizado"
+},{
+  "_id": {
+    "$oid": "63ffeef8578d7ef667a3a620"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1664841600000"
+    }
+  },
+  "equipo_local": "Liberpool",
+  "equipo_visitante": "Rangers",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "estado": "Finalizado"
+},{
+  "_id": {
+    "$oid": "63ffeef8578d7ef667a3a621"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1665532800000"
+    }
+  },
+  "equipo_local": "Napoles",
+  "equipo_visitante": "Ajax",
+  "goles_local": 4,
+  "goles_visitante": 2,
+  "estado": "Finalizado"
+},{
+  "_id": {
+    "$oid": "63ffeef8578d7ef667a3a622"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1662508800000"
+    }
+  },
+  "equipo_local": "Napoles",
+  "equipo_visitante": "Liberpool",
+  "goles_local": 4,
+  "goles_visitante": 1,
+  "estado": "Finalizado"
+},{
+  "_id": {
+    "$oid": "63ffeef8578d7ef667a3a623"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1666742400000"
+    }
+  },
+  "equipo_local": "Napoles",
+  "equipo_visitante": "Rangers",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "estado": "Finalizado"
+},{
+  "_id": {
+    "$oid": "63ffeef8578d7ef667a3a624"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1667260800000"
+    }
+  },
+  "equipo_local": "Rangers",
+  "equipo_visitante": "Ajax",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "estado": "Finalizado"
+},{
+  "_id": {
+    "$oid": "63ffeef8578d7ef667a3a625"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1665532800000"
+    }
+  },
+  "equipo_local": "Rangers",
+  "equipo_visitante": "Liberpool",
+  "goles_local": 1,
+  "goles_visitante": 7,
+  "estado": "Finalizado"
+},{
+  "_id": {
+    "$oid": "63ffeef8578d7ef667a3a626"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1665705600000"
+    }
+  },
+  "equipo_local": "Rangers",
+  "equipo_visitante": "Napoles",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "estado": "Finalizado"
+}]

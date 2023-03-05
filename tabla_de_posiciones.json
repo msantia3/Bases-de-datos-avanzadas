@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "63ffe52b578d7ef667a3a60d"
+  },
+  "posicion": 1,
+  "equipo": "Napoles",
+  "puntos": 15,
+  "partidos_jugados": 6,
+  "partidos_ganados": 5,
+  "partidos_empatados": 0,
+  "partidos_perdidos": 1,
+  "goles_a_favor": 17,
+  "goles_en_contra": 6,
+  "diferencia": 11
+},{
+  "_id": {
+    "$oid": "63ffe52b578d7ef667a3a60e"
+  },
+  "posicion": 2,
+  "equipo": "Liberpool",
+  "puntos": 15,
+  "partidos_jugados": 6,
+  "partidos_ganados": 5,
+  "partidos_empatados": 0,
+  "partidos_perdidos": 1,
+  "goles_a_favor": 17,
+  "goles_en_contra": 6,
+  "diferencia": 11
+},{
+  "_id": {
+    "$oid": "63ffe52b578d7ef667a3a60f"
+  },
+  "posicion": 3,
+  "equipo": "Ajax",
+  "puntos": 6,
+  "partidos_jugados": 6,
+  "partidos_ganados": 2,
+  "partidos_empatados": 0,
+  "partidos_perdidos": 4,
+  "goles_a_favor": 11,
+  "goles_en_contra": 16,
+  "diferencia": -5
+},{
+  "_id": {
+    "$oid": "63ffe52b578d7ef667a3a610"
+  },
+  "posicion": 4,
+  "equipo": "Rangers",
+  "puntos": 0,
+  "partidos_jugados": 6,
+  "partidos_ganados": 0,
+  "partidos_empatados": 0,
+  "partidos_perdidos": 6,
+  "goles_a_favor": 2,
+  "goles_en_contra": 22,
+  "diferencia": -20
+}]

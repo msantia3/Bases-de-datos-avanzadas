@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "63fec0c9578d7ef667a3a5c4"
+  },
+  "Id_entrenador": 1,
+  "nombre": "Luciano Spalletti",
+  "nacionalidad": "Italiano",
+  "fecha_nacimiento": "Marzo 7, 1959",
+  "equipo": "Napoles",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fec0c9578d7ef667a3a5c5"
+  },
+  "Id_entrenador": 2,
+  "nombre": "Jurgen Klopp",
+  "nacionalidad": "Aleman",
+  "fecha_nacimiento": "Junio 16, 1967",
+  "equipo": "Liberpool",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fec0c9578d7ef667a3a5c6"
+  },
+  "Id_entrenador": 3,
+  "nombre": "Erik ten Hag",
+  "nacionalidad": "Nerlandes",
+  "fecha_nacimiento": "Febrero 2, 1970",
+  "equipo": "Liberpool",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fec0c9578d7ef667a3a5c7"
+  },
+  "Id_entrenador": 4,
+  "nombre": "Dalcio Giovagnoli ",
+  "nacionalidad": "Argentino",
+  "fecha_nacimiento": "Junio 5, 1963",
+  "equipo": "Rangers",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+}]

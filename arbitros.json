@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "63febd40578d7ef667a3a5b2"
+  },
+  "nombre": "Sanchez Martínez",
+  "nacionalidad": "España",
+  "experiencia": "Primera División de España 2013"
+},{
+  "_id": {
+    "$oid": "63febd40578d7ef667a3a5b3"
+  },
+  "nombre": "François Letexier",
+  "nacionalidad": "Francia",
+  "experiencia": "FIFA referee since 2017"
+},{
+  "_id": {
+    "$oid": "63febd40578d7ef667a3a5b4"
+  },
+  "nombre": "Tobias Stieler",
+  "nacionalidad": "Aleman",
+  "experiencia": "FIFA referee, and is ranked as a UEFA"
+},{
+  "_id": {
+    "$oid": "63febd40578d7ef667a3a5b5"
+  },
+  "nombre": "Artur Soares Dias",
+  "nacionalidad": "Portugués",
+  "experiencia": "FIFA referee 2010, and is ranked as a UEFA"
+},{
+  "_id": {
+    "$oid": "63febd40578d7ef667a3a5b6"
+  },
+  "nombre": "Clément Turpin",
+  "nacionalidad": "Frances",
+  "experiencia": "Turpin fue nombrado árbitro FIFA en 2010"
+},{
+  "_id": {
+    "$oid": "63febd40578d7ef667a3a5b7"
+  },
+  "nombre": "Felix Zwayer",
+  "nacionalidad": "Aleman",
+  "experiencia": "Es un árbitro FIFA, y se encuentra dentro del grupo élite de la UEFA 2012"
+},{
+  "_id": {
+    "$oid": "63febd40578d7ef667a3a5b8"
+  },
+  "nombre": "Carlos del Cerro Grande",
+  "nacionalidad": "Español",
+  "experiencia": "Pertenece al Comité de Árbitros de la Comunidad de Madrid 2011."
+},{
+  "_id": {
+    "$oid": "63febd40578d7ef667a3a5b9"
+  },
+  "nombre": "Halil Umut Meler",
+  "nacionalidad": "Turkish",
+  "experiencia": "FIFA listed since 2017 and a member of the UEFA Elite since 2022"
+},{
+  "_id": {
+    "$oid": "63febd40578d7ef667a3a5ba"
+  },
+  "nombre": "Glenn Nyberg",
+  "nacionalidad": "Swedish",
+  "experiencia": "Allsvenskan referee since 2013 and a full international referee for FIFA since 2016"
+},{
+  "_id": {
+    "$oid": "63febd40578d7ef667a3a5bb"
+  },
+  "nombre": "Slavko Vinčić",
+  "nacionalidad": "Slovenian",
+  "experiencia": "Referee for FIFA since 2010. Vinčić went to UEFA Euro 2012"
+},{
+  "_id": {
+    "$oid": "63febd40578d7ef667a3a5bc"
+  },
+  "nombre": "Mateu Lahoz",
+  "nacionalidad": "Español",
+  "experiencia": "Referee with experience in several editions of the FIFA World Cup 2008"
+}]

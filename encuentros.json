@@ -1,0 +1,253 @@
+[{
+  "_id": {
+    "$oid": "63feb02f578d7ef667a3a5a1"
+  },
+  "estadio": "Johan Cruyff Arena",
+  "fecha": {
+    "$date": {
+      "$numberLong": "1666742400000"
+    }
+  },
+  "equipo_local": {
+    "nombre": "Ajax",
+    "goles": 0
+  },
+  "equipo_visitante": {
+    "nombre": "Liberpool",
+    "goles": 3
+  },
+  "arbitro": {
+    "nombre": "Sanchez Martínez"
+  }
+},{
+  "_id": {
+    "$oid": "63feb02f578d7ef667a3a5a2"
+  },
+  "estadio": "Johan Cruyff Arena",
+  "fecha": {
+    "$date": {
+      "$numberLong": "1664841600000"
+    }
+  },
+  "equipo_local": {
+    "nombre": "Ajax",
+    "goles": 1
+  },
+  "equipo_visitante": {
+    "nombre": "Napoles",
+    "goles": 6
+  },
+  "arbitro": {
+    "nombre": "François Letexier"
+  }
+},{
+  "_id": {
+    "$oid": "63feb02f578d7ef667a3a5a3"
+  },
+  "estadio": "Johan Cruyff Arena",
+  "fecha": {
+    "$date": {
+      "$numberLong": "1662508800000"
+    }
+  },
+  "equipo_local": {
+    "nombre": "Ajax",
+    "goles": 4
+  },
+  "equipo_visitante": {
+    "nombre": "Rangers",
+    "goles": 0
+  },
+  "arbitro": {
+    "nombre": "Tobias Stieler"
+  }
+},{
+  "_id": {
+    "$oid": "63feb1f6578d7ef667a3a5a5"
+  },
+  "estadio": "Anfield",
+  "fecha": {
+    "$date": {
+      "$numberLong": "1666742400000"
+    }
+  },
+  "equipo_local": {
+    "nombre": "Liberpool",
+    "goles": 2
+  },
+  "equipo_visitante": {
+    "nombre": "Ajax",
+    "goles": 1
+  },
+  "arbitro": {
+    "nombre": "Artur Soares Dias"
+  }
+},{
+  "_id": {
+    "$oid": "63feb1f6578d7ef667a3a5a6"
+  },
+  "estadio": "Anfield",
+  "fecha": {
+    "$date": {
+      "$numberLong": "1667260800000"
+    }
+  },
+  "equipo_local": {
+    "nombre": "Liberpool",
+    "goles": 2
+  },
+  "equipo_visitante": {
+    "nombre": "Napoles",
+    "goles": 0
+  },
+  "arbitro": {
+    "nombre": "Tobias Stieler"
+  }
+},{
+  "_id": {
+    "$oid": "63feb1f6578d7ef667a3a5a7"
+  },
+  "estadio": "Anfield",
+  "fecha": {
+    "$date": {
+      "$numberLong": "1664841600000"
+    }
+  },
+  "equipo_local": {
+    "nombre": "Liberpool",
+    "goles": 2
+  },
+  "equipo_visitante": {
+    "nombre": "Rangers",
+    "goles": 0
+  },
+  "arbitro": {
+    "nombre": "Clément Turpin"
+  }
+},{
+  "_id": {
+    "$oid": "63feb4cf578d7ef667a3a5a9"
+  },
+  "estadio": "Estadio Diego Armando Maradona",
+  "fecha": {
+    "$date": {
+      "$numberLong": "1665532800000"
+    }
+  },
+  "equipo_local": {
+    "nombre": "Napoles",
+    "goles": 4
+  },
+  "equipo_visitante": {
+    "nombre": "Ajax",
+    "goles": 2
+  },
+  "arbitro": {
+    "nombre": "Felix Zwayer"
+  }
+},{
+  "_id": {
+    "$oid": "63feb4cf578d7ef667a3a5aa"
+  },
+  "estadio": "Estadio Diego Armando Maradona",
+  "fecha": {
+    "$date": {
+      "$numberLong": "1662508800000"
+    }
+  },
+  "equipo_local": {
+    "nombre": "Napoles",
+    "goles": 4
+  },
+  "equipo_visitante": {
+    "nombre": "Liberpool",
+    "goles": 1
+  },
+  "arbitro": {
+    "nombre": "Del Cerro Grande"
+  }
+},{
+  "_id": {
+    "$oid": "63feb4cf578d7ef667a3a5ab"
+  },
+  "estadio": "Estadio Diego Armando Maradona",
+  "fecha": {
+    "$date": {
+      "$numberLong": "1666742400000"
+    }
+  },
+  "equipo_local": {
+    "nombre": "Napoles",
+    "goles": 3
+  },
+  "equipo_visitante": {
+    "nombre": "Rangers",
+    "goles": 0
+  },
+  "arbitro": {
+    "nombre": "Halil Umut Meler"
+  }
+},{
+  "_id": {
+    "$oid": "63feb655578d7ef667a3a5ad"
+  },
+  "estadio": "Ibrox Stadium",
+  "fecha": {
+    "$date": {
+      "$numberLong": "1667260800000"
+    }
+  },
+  "equipo_local": {
+    "nombre": "Rangers",
+    "goles": 1
+  },
+  "equipo_visitante": {
+    "nombre": "Ajax",
+    "goles": 3
+  },
+  "arbitro": {
+    "nombre": "Glenn Nyberg"
+  }
+},{
+  "_id": {
+    "$oid": "63feb655578d7ef667a3a5ae"
+  },
+  "estadio": "Ibrox Stadium",
+  "fecha": {
+    "$date": {
+      "$numberLong": "1665532800000"
+    }
+  },
+  "equipo_local": {
+    "nombre": "Rangers",
+    "goles": 1
+  },
+  "equipo_visitante": {
+    "nombre": "Liberpool",
+    "goles": 7
+  },
+  "arbitro": {
+    "nombre": "Slavko Vinčić"
+  }
+},{
+  "_id": {
+    "$oid": "63feb655578d7ef667a3a5af"
+  },
+  "estadio": "Ibrox Stadium",
+  "fecha": {
+    "$date": {
+      "$numberLong": "1665705600000"
+    }
+  },
+  "equipo_local": {
+    "nombre": "Rangers",
+    "goles": 0
+  },
+  "equipo_visitante": {
+    "nombre": "Napoles",
+    "goles": 3
+  },
+  "arbitro": {
+    "nombre": "Mateu Lahoz"
+  }
+}]

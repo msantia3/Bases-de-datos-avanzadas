@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "63fec2e2578d7ef667a3a5cf"
+  },
+  "posicion": 1,
+  "Equipo": "Napoles",
+  "Puntos": 15
+},{
+  "_id": {
+    "$oid": "63fec2e2578d7ef667a3a5d0"
+  },
+  "posicion": 2,
+  "Equipo": "Liberpool",
+  "Puntos": 15
+},{
+  "_id": {
+    "$oid": "63fec2e2578d7ef667a3a5d1"
+  },
+  "posicion": 3,
+  "Equipo": "Ajax",
+  "Puntos": 15
+},{
+  "_id": {
+    "$oid": "63fec2e2578d7ef667a3a5d2"
+  },
+  "posicion": 4,
+  "Equipo": "Rangers",
+  "Puntos": 0
+}]

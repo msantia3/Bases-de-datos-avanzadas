@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "63fea6f1578d7ef667a3a592"
+  },
+  "Id_equipo": "AJX",
+  "nombre": "Ajax",
+  "pais": "Amsterdam, Paises Bajos"
+},{
+  "_id": {
+    "$oid": "63fea6f1578d7ef667a3a593"
+  },
+  "Id_equipo": "LFC",
+  "nombre": "Liberpool",
+  "pais": "Liberpool, Inglaterra"
+},{
+  "_id": {
+    "$oid": "63fea6f1578d7ef667a3a594"
+  },
+  "Id_equipo": "NAP",
+  "nombre": "Napoles",
+  "pais": "Lapoles, Italia"
+},{
+  "_id": {
+    "$oid": "63fea6f1578d7ef667a3a595"
+  },
+  "Id_equipo": "RAN",
+  "nombre": "Rangers",
+  "pais": "Glasgow, Escocia"
+}]
